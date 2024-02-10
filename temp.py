@@ -80,6 +80,4 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-# Now, player_positions list contains positional matrices for each frame
-# You can further analyze or process this list as needed
 
